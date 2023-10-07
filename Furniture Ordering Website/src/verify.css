@@ -1,0 +1,8 @@
+.price{
+    position: relative;
+    top: 40px;
+}
+.order{
+    position: relative;
+    bottom: 130px;
+}

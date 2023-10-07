@@ -1,0 +1,42 @@
+
+body{
+        overflow-x: hidden;
+}  
+.cart{
+        position: relative;
+        right: 299px;
+        bottom: 30px;
+}
+.furnweb{
+        position:relative;
+        right: 715px;
+        bottom: 122px;
+        
+       }
+       .sale{
+        position: absolute;
+       }
+       .items{
+        position: relative;
+        left: 200px;
+       }
+       .remove{
+        position: relative;
+        right: 230px;
+       }
+       .pay{
+        position: relative;
+        right: 200px;
+       }
+       .buttonStyle1{
+        position: relative;
+        right: 100px;
+       }
+       .profilebutton{
+        position: relative;
+        right: 294px;
+        bottom: 99px;
+        background-color: transparent;
+        border: none;
+        
+       }

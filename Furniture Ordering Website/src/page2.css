@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+
+.payment{
+position: relative;
+bottom: 100px;
+}
+.name{
+position: relative;
+
+top: 30px;
+}
+.email{
+    position: relative;
+    
+    top: 38px;
+}
+.upi{
+    position: relative;
+    
+    top: 46px;
+}
+.password{
+    position: relative;
+    top: 54px;
+}
